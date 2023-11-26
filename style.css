@@ -1,0 +1,13 @@
+.hero-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.gallery-image {
+    display: flex;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
