@@ -35,9 +35,7 @@ ul {
 }
 
 ul a,
-.hero-description,
-.hero-button,
-.call-button {
+.hero-description {
   text-decoration: none;
   color: #e5e7eb;
   font-size: 18px;
@@ -73,7 +71,9 @@ ul a,
   font-family: "Roboto", sans-serif;
   flex: none;
   background-color: #3882f6;
+  color: #f9faf8;
   border: none;
+  font-size: 18px;
   border-radius: 8px;
   padding: 6px 32px;
   font-weight: 500;
@@ -196,7 +196,7 @@ ul a,
 }
 
 .call-button {
-  border: #e5e7eb 3px solid;
+  border: #f9faf8 3px solid;
 }
 
 /* FOOTER SECTION */
